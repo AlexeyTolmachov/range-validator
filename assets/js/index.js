@@ -58,6 +58,6 @@ class RangeValidator {
 
     throw RangeError("the entered number is not in the range");
   }
-}
+} 
 
 // const numb = new RangeValidator(30, 50);
